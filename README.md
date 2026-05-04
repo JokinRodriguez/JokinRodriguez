@@ -1,16 +1,17 @@
-## Hi there 👋
+Kaixo! Hola! I'm Jokin Rodriguez 👋
+Header
+👨‍💻 Niri buruz / Sobre mí
+🟢 Euskaraz
+DBHko Informatika irakaslea naiz. Nire denbora librean, ezagunei webgune modernoak eta erakargarriak sortzen laguntzen diet. Beti nago teknologia berriak ikasteko eta nire trebetasunak garatzeko prest!
 
-<!--
-**JokinRodriguez/JokinRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔵 Castellano
+Soy profesor de Informática en Educación Secundaria. En mi tiempo libre, ayudo a conocidos creando páginas web modernas y atractivas. ¡Siempre estoy dispuesto a aprender nuevas tecnologías y mejorar mis habilidades!
 
-Here are some ideas to get you started:
+🛠️ Nire Teknologiak / Mis Tecnologías
+AstroTailwind CSSReact NativeJavaScriptHTML5CSS3
+📊 Nire GitHub Estatistikak / Mis Estadísticas
+Jokin's GitHub statsTop Langs
+🌐 Jarri nirekin harremanetan / Contáctame
+LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eskerrik asko nire profila bisitatzeagatik! / ¡Gracias por visitar mi perfil!
