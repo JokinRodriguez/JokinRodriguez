@@ -30,13 +30,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-## 📊 Nire GitHub Estatistikak / Mis Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JokinRodriguez&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Jokin's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokinRodriguez&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Langs" height="192px"/>
-</div>
-
 ## 🌐 Jarri nirekin harremanetan / Contáctame
 
 <div align="center">
